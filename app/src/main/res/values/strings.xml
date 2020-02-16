@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="president_question">Who is the 44th President of the United States?</string>
+    <string name="president_answer">Barack Obama</string>
+</resources>
